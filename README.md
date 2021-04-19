@@ -19,9 +19,9 @@ Properties have a set of indexed values, e.g., WorkAgentIndexed and a correspond
 ## Use
 Install exiftool v 10.70 or greater. 
  - Place the vraeExifTool.config file in the same directory as exiftool.exe.
- -- To read/write metadata, start the exiftool command with -config vrae.config
+ -- To read/write metadata, start the exiftool command with -config vraeExifTool.config
  - Rename vraeExifTool.config to .ExifTool_config and place it in your home directory or the exiftool application directory.
- -- To read/write metadata, start the exiftool command with -config [path to vrae.config]
+ -- To read/write metadata, start the exiftool command with -config [path to vraeExifTool.config]
  
 [More information on exiftool config files](https://exiftool.org/config.html)
 
