@@ -2,7 +2,7 @@ This is a config file to read and write VRA Core Essentials XMP embedded metadat
 
 [VRA Core schema](http://www.loc.gov/standards/vracore/) is a data standard for the description of works of visual culture as well as the images that document them. 
 
-VRA Essential is made up select VRA Core properties adapted to the Adobe XMP embedded metadata specification. 
+VRA Essentials is made up select VRA Core properties adapted to the Adobe XMP embedded metadata specification. 
 
 The prefered XMP prefix is "vrae" and the namespace is http://www.vraweb.org/vracore/4.0/essential/
 
@@ -18,24 +18,24 @@ Properties have a set of indexed values, e.g., WorkAgentIndexed and a correspond
 
 ## Use
 Install exiftool v 10.70 or greater. 
- - Place the vraeExifTool.config file in the same directory as exiftool.exe.
- -- To read/write metadata, start the exiftool command with -config vraeExifTool.config
- - Rename vraeExifTool.config to .ExifTool_config and place it in your home directory or the exiftool application directory.
- -- To read/write metadata, start the exiftool command with -config [path to vraeExifTool.config]
+ - Place the vrae.config file in the same directory as exiftool.exe.
+ -- To read/write metadata, start the exiftool command with -config vrae.config
+ - Rename vrae.config to .ExifTool_config and place it in your home directory or the exiftool application directory.
+ -- To read/write metadata, start the exiftool command with -config [path to vrae.config]
  
 [More information on exiftool config files](https://exiftool.org/config.html)
 
 ## Example commands
 
-#### Read all vrae tags
-`exiftool -config vraeExifTool.config -xmp-vrae:all test.jpg`
+#### Read all vrae tags to console
+`exiftool -config vrae.config -xmp-vrae:all test.jpg`
 
 #### Write to Work Material
-`exiftool -config vraeExifTool.config -xmp-vrae:WorkMaterial="bronze, on a marble base material" test.jpg`
+`exiftool -config vrae.config -xmp-vrae:WorkMaterial="bronze, on a marble base material" test.jpg`
 
 #### Write to Work Material Indexed
 
-`exiftool -config vraeExifTool.config -xmp-vrae:WorkMaterialIndexed="[{value=bronze, vocab=AAT, refid=300010957, href=http://vocab.getty.edu/aat/300010957}, {value=marble, vocab=AAT, refid=300011443, href=http://vocab.getty.edu/aat/300011443, extent=base}]" test.jpg`
+`exiftool -config vrae.config -xmp-vrae:WorkMaterialIndexed="[{value=bronze, vocab=AAT, refid=300010957, href=http://vocab.getty.edu/aat/300010957}, {value=marble, vocab=AAT, refid=300011443, href=http://vocab.getty.edu/aat/300011443, extent=base}]" test.jpg`
 
 ## ExifTool Tags
 
