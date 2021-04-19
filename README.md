@@ -1,0 +1,1 @@
+# VRAE-ExifTool-config
