@@ -27,11 +27,14 @@ Install exiftool v 10.70 or greater.
 
 ## Example commands
 
-#### Read all vrae tags to console
+#### Read all vrae tags
 `exiftool -config vrae.config -xmp-vrae:all test.jpg`
 
 #### Read Work Material
-`exiftool -config vrae.config -xmp-vrae:WorkMaterial "C:\Users\Computer User\Pictures\_TEST\write_test.jpg"`
+`exiftool -config vrae.config -xmp-vrae:WorkMaterial test.jpg`
+
+#### Read Work Material Indexed to JSON (more useful than flattened tag list)
+`exiftool -config vrae.config -T -j -xmp-vrae:WorkMaterialIndexed -S -struct test.jpg`
 
 #### Write to Work Material
 `exiftool -config vrae.config -xmp-vrae:WorkMaterial="bronze, on a marble base material" test.jpg`
