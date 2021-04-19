@@ -30,16 +30,16 @@ Install exiftool v 10.70 or greater.
 #### Read all vrae tags
 `exiftool -config vrae.config -xmp-vrae:all test.jpg`
 
-#### Read Work Material
+#### Read WorkMaterial
 `exiftool -config vrae.config -xmp-vrae:WorkMaterial test.jpg`
 
-#### Read Work Material Indexed to JSON (more useful than flattened tag list)
+#### Read WorkMaterialIndexed to JSON (more useful than flattened tag list)
 `exiftool -config vrae.config -T -j -xmp-vrae:WorkMaterialIndexed -S -struct test.jpg`
 
-#### Write to Work Material
+#### Write to WorkMaterial
 `exiftool -config vrae.config -xmp-vrae:WorkMaterial="bronze, on a marble base material" test.jpg`
 
-#### Write to Work Material Indexed
+#### Write to Work MaterialIndexed
 
 `exiftool -config vrae.config -xmp-vrae:WorkMaterialIndexed="[{value=bronze, vocab=AAT, refid=300010957, href=http://vocab.getty.edu/aat/300010957}, {value=marble, vocab=AAT, refid=300011443, href=http://vocab.getty.edu/aat/300011443, extent=base}]" test.jpg`
 
