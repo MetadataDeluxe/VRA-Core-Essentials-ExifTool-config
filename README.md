@@ -22,7 +22,17 @@ Install exiftool v 10.70 or greater.
  
 [More information on exiftool config files](https://exiftool.org/config.html)
 
-Command: exiftool -config vrae.config -xmp-vrae:...
+## Example commands
+
+#### Read all vrae tags
+`exiftool -config vrae.config -xmp-vrae:all test.jpg`
+
+#### Write to Work Material
+`exiftool -config vrae.config -xmp-vrae:WorkMaterial="bronze, on a marble base material" test.jpg`
+
+#### Write to Work Material Indexed
+
+`exiftool -config vrae.config -xmp-vrae:WorkMaterialIndexed="[{value=bronze, vocab=AAT, refid=300010957, href=http://vocab.getty.edu/aat/300010957}, {value=marble, vocab=AAT, refid=300011443, href=http://vocab.getty.edu/aat/300011443, extent=base}]" test.jpg`
 
 ## ExifTool Tags
 | Tag Name                        | / Name       | // Name | Type                     | Controled values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Example write command                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
