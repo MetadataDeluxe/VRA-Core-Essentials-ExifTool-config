@@ -13,6 +13,17 @@ Elements have a set of indexed values, e.g., WorkAgentIndexed and a correspondin
  - Indexed values are repeatable, i.e., you can have multiple Agents (architect, landscape architect, etc.). An indexed set is an XMP sequential array or structures.
  - Display values concatenate Indexed values into a single text string that can be modified for readability. A display element is a simple XMP text property.
 
+## Use
+Install exiftool v 10.70 or greater. 
+ - Place the vrae.config file in the same directory as exiftool.exe.
+ -- To read/write metadata, start the exiftool command with -config vrae.config
+ - Rename vrae.config to .ExifTool_config and place it in your home directory or the exiftool application directory.
+ -- To read/write metadata, start the exiftool command with -config [path to vrae.config]
+ 
+[More information on exiftool config files](https://exiftool.org/config.html)
+
+Command: exiftool -config vrae.config -xmp-vrae:...
+
 ## ExifTool Tags
 | Tag Name                        | / Name       | // Name | Type                     | Controled values                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Example write command                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | ------------------------------- | ------------ | ------- | ------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
