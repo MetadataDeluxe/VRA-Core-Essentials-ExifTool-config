@@ -27,7 +27,13 @@ Install exiftool v 10.70 or greater.
  
 [More information on exiftool config files](https://exiftool.org/config.html)
 
-[Spreadsheet with vrae tags, definitions, and example commands](https://github.com/MetadataDeluxe/VRA-Core-Essentials-ExifTool-config/blob/main/Documentation/VRAE_ExifTool_Tags.xlsx)
+See the [Documentation folder](https://github.com/MetadataDeluxe/VRA-Core-Essentials-ExifTool-config/tree/main/Documentation) for
+- Excel spreadsheet with vrae tags, definitions, and example commands
+
+See the [Examples folder](https://github.com/MetadataDeluxe/VRA-Core-Essentials-ExifTool-config/tree/main/Examples) for
+- JPEG file with all VRAE XMP properties
+- XMP file
+- ExifTool read files (flattened list, CSV, JSON)
 
 ## Example commands
 
