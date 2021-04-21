@@ -1,0 +1,604 @@
+[{
+  "SourceFile": "C:/Users/Computer User/Project/vrae_exiftool_example.jpg",
+  "Custom1": {
+    "id": "custom1",
+    "table": "UserDefined::vrae",
+    "val": {
+      "Data": "CUSTOM 1 DATA",
+      "_label": "CUSTOM 1 LABEL"
+    }
+  },
+  "Custom2": {
+    "id": "custom2",
+    "table": "UserDefined::vrae",
+    "val": {
+      "Data": "CUSTOM 2 DATA",
+      "_label": "CUSTOM 2 LABEL"
+    }
+  },
+  "Custom3": {
+    "id": "custom3",
+    "table": "UserDefined::vrae",
+    "val": {
+      "Data": "CUSTOM 3 DATA",
+      "_label": "CUSTOM 3 LABEL"
+    }
+  },
+  "Custom4": {
+    "id": "custom4",
+    "table": "UserDefined::vrae",
+    "val": {
+      "Data": "CUSTOM 4 DATA",
+      "_label": "CUSTOM 4 LABEL"
+    }
+  },
+  "Custom5": {
+    "id": "custom5",
+    "table": "UserDefined::vrae",
+    "val": {
+      "Data": "CUSTOM 5 DATA",
+      "_label": "CUSTOM 5 LABEL"
+    }
+  },
+  "Custom6": {
+    "id": "custom6",
+    "table": "UserDefined::vrae",
+    "val": {
+      "Data": "CUSTOM 6 DATA",
+      "_label": "CUSTOM 6 LABEL"
+    }
+  },
+  "ImageAgentIndexed": {
+    "id": "image.agentIndexed",
+    "table": "UserDefined::vrae",
+    "val": [{
+      "Href": "IMAGE AGENT HREF",
+      "Refid": "IMAGE AGENT REFID",
+      "Value": "IMAGE AGENT",
+      "Vocab": "ULAN"
+    }]
+  },
+  "ImageDescription": {
+    "id": "image.description",
+    "table": "UserDefined::vrae",
+    "val": "IMAGE DESCRIPTION"
+  },
+  "ImageDescriptionIndexed": {
+    "id": "image.descriptionIndexed",
+    "table": "UserDefined::vrae",
+    "val": [{
+      "Extent": "IMAGE DESCRIPTION EXTENT",
+      "Lang": "eng",
+      "Refid": "IMAGE DESCRIPTION REFID",
+      "Source": "IMAGE DESCRIPTION SOURCE",
+      "Value": "IMAGE DESCRIPTION VALUE"
+    }]
+  },
+  "ImageHref": {
+    "id": "image.href",
+    "table": "UserDefined::vrae",
+    "val": "IMAGE HREF"
+  },
+  "ImageInscription": {
+    "id": "image.inscription",
+    "table": "UserDefined::vrae",
+    "val": "IMAGE INSCRIPTION"
+  },
+  "ImageInscriptionIndexed": {
+    "id": "image.inscriptionIndexed",
+    "table": "UserDefined::vrae",
+    "val": [{
+      "Author": "IMAGE INSCRIPTION AUTHOR",
+      "AuthorHref": "IMAGE INSCRIPTION AUTHOR HREF",
+      "AuthorRefid": "IMAGE INSCRIPTION AUTHOR REFID",
+      "AuthorSource": "IMAGE INSCRIPTION AUTHOR SOURCE",
+      "AuthorVocab": "ULAN",
+      "Extent": "IMAGE INSCRIPTION EXTENT",
+      "Lang": "eng",
+      "Position": "IMAGE INSCRIPTION POSITION",
+      "Text": "IMAGE INSCRIPTION TEXT",
+      "TextSource": "IMAGE INSCRIPTION TEXTSOURCE",
+      "TextType": "caption"
+    }]
+  },
+  "ImageMetadataDate": {
+    "id": "image.metadataDate",
+    "table": "UserDefined::vrae",
+    "val": "IMAGE METADATA DATE"
+  },
+  "ImageMetadataHref": {
+    "id": "image.metadataHref",
+    "table": "UserDefined::vrae",
+    "val": "IMAGE METADATA HREF"
+  },
+  "ImageMetadataId": {
+    "id": "image.metadataId",
+    "table": "UserDefined::vrae",
+    "val": "IMAGE METADATA ID"
+  },
+  "ImageMetadataSource": {
+    "id": "image.metadataSource",
+    "table": "UserDefined::vrae",
+    "val": "IMAGE METADATA SOURCE"
+  },
+  "ImageRefid": {
+    "id": "image.refid",
+    "table": "UserDefined::vrae",
+    "val": "IMAGE REFID"
+  },
+  "ImageRelation": {
+    "id": "image.relation",
+    "table": "UserDefined::vrae",
+    "val": "IMAGE RELATION"
+  },
+  "ImageRelationIndexed": {
+    "id": "image.relationIndexed",
+    "table": "UserDefined::vrae",
+    "val": [{
+      "Href": "RELATION HREF",
+      "Refid": "RELATION REFID",
+      "Relids": "RELATION",
+      "Source": "RELATION SOURCE",
+      "Type": "imageOf",
+      "Value": "RELATION"
+    }]
+  },
+  "ImageSource": {
+    "id": "image.source",
+    "table": "UserDefined::vrae",
+    "val": "IMAGE SOURCE"
+  },
+  "ImageSourceIndexed": {
+    "id": "image.sourceIndexed",
+    "table": "UserDefined::vrae",
+    "val": [{
+      "Extent": "SOURCE EXTENT",
+      "Href": "SOURCE HREF",
+      "NameHref": "SOURCE NAME HREF",
+      "NameRefid": "SOURCE NAME REFID",
+      "NameVocab": "SOURCE NAME VOCAB",
+      "Refid": "SOURCE REFID",
+      "RefidType": "ISBN",
+      "Type": "book",
+      "Value": "SOURCE NAME"
+    }]
+  },
+  "ImageSubject": {
+    "id": "image.subject",
+    "table": "UserDefined::vrae",
+    "val": "IMAGE SUBJECT"
+  },
+  "ImageSubjectIndexed": {
+    "id": "image.subjectIndexed",
+    "table": "UserDefined::vrae",
+    "val": [{
+      "Extent": "SUBJECT EXTENT",
+      "Href": "SUBJECT HREF",
+      "Lang": "Eng",
+      "Refid": "SUBJECT REFID",
+      "Rules": "SUBJECT RULES",
+      "Source": "SUBJECT SOURCE",
+      "Type": "iconographicTopic",
+      "Value": "SUBJECT VALUE",
+      "Vocab": "AAT"
+    }]
+  },
+  "ImageTitle": {
+    "id": "image.title",
+    "table": "UserDefined::vrae",
+    "val": "IMAGE TITLE"
+  },
+  "ImageTitleIndexed": {
+    "id": "image.titleIndexed",
+    "table": "UserDefined::vrae",
+    "val": [{
+      "Href": "TITLE HREF",
+      "Lang": "eng",
+      "Pref": true,
+      "Refid": "TITLE REFID",
+      "Relids": "TITLE RELIDS",
+      "Source": "TITLE SOURCE",
+      "Type": "generalView",
+      "Value": "TITLE VALUE",
+      "Vocab": "CONA"
+    }]
+  },
+  "WorkAgent": {
+    "id": "work.agent",
+    "table": "UserDefined::vrae",
+    "val": "WORK AGENT"
+  },
+  "WorkAgentIndexed": {
+    "id": "work.agentIndexed",
+    "table": "UserDefined::vrae",
+    "val": [{
+      "Attribution": "attributed to",
+      "Culture": [{
+        "Href": "AGENT CULTURE HREF",
+        "Refid": "AGENT CULTURE REFID",
+        "Source": "AGENT CULTURE SOURCE",
+        "Value": "AGENT CULTURE VALUE",
+        "Vocab": "AAT"
+      }],
+      "DateEarliest": 1900,
+      "DateLatest": 1999,
+      "DateType": "life",
+      "Extent": "AGENT EXTENT",
+      "Name": "AGENT NAME",
+      "NameHref": "AGENT HREF",
+      "NameRefid": "AGENT REFID",
+      "NameSource": "AGENT NAME SOURCE",
+      "NameType": "AGENT NAME TYPE",
+      "NameVocab": "ULAN",
+      "Role": [{
+        "Href": "AGENT ROLE HREF",
+        "Refid": "AGENT ROLE REFID",
+        "Source": "AGENT ROLE SOURCE",
+        "Value": "artist",
+        "Vocab": "AAT"
+      },{
+        "Value": "AGENT ROLE 2"
+      }],
+      "Source": "AGENT SOURCE"
+    }]
+  },
+  "WorkCulturalContext": {
+    "id": "work.culturalContext",
+    "table": "UserDefined::vrae",
+    "val": "WORK CULTURAL CONTEXT"
+  },
+  "WorkCulturalContextIndexed": {
+    "id": "work.culturalContextIndexed",
+    "table": "UserDefined::vrae",
+    "val": [{
+      "Extent": "CULTURAL CONTEXT EXTENT",
+      "Href": "CULTURAL CONTEXT HREF",
+      "Refid": "CULTURAL CONTEXT REFID",
+      "Source": "CULTURAL CONTEXT SOURCE",
+      "Value": "CULTURAL CONTEXT",
+      "Vocab": "AAT"
+    }]
+  },
+  "WorkDate": {
+    "id": "work.date",
+    "table": "UserDefined::vrae",
+    "val": "WORK DATE"
+  },
+  "WorkDateIndexed": {
+    "id": "work.dateIndexed",
+    "table": "UserDefined::vrae",
+    "val": [{
+      "EarliestDate": 1900,
+      "Extent": "WORK DATE EXTENT",
+      "LatestDate": 1999,
+      "Source": "WORK DATE SOURCE",
+      "Type": "creation"
+    }]
+  },
+  "WorkDescription": {
+    "id": "work.description",
+    "table": "UserDefined::vrae",
+    "val": "WORK DESCRIPTION"
+  },
+  "WorkDescriptionIndexed": {
+    "id": "work.descriptionIndexed",
+    "table": "UserDefined::vrae",
+    "val": [{
+      "Extent": "WORK DESCRIPTION EXTENT",
+      "Lang": "eng",
+      "Refid": "WORK DESCRIPTION REFID",
+      "Source": "WORK DESCRIPTION SOURCE",
+      "Value": "WORK DESCRIPTION VALUE"
+    }]
+  },
+  "WorkHref": {
+    "id": "work.href",
+    "table": "UserDefined::vrae",
+    "val": "WORK HREF"
+  },
+  "WorkInscription": {
+    "id": "work.inscription",
+    "table": "UserDefined::vrae",
+    "val": "WORK INSCRIPTION"
+  },
+  "WorkInscriptionIndexed": {
+    "id": "work.inscriptionIndexed",
+    "table": "UserDefined::vrae",
+    "val": [{
+      "Author": "WORK INSCRIPTION AUTHOR",
+      "AuthorHref": "WORK INSCRIPTION AUTHOR HREF",
+      "AuthorRefid": "WORK INSCRIPTION AUTHOR REFID",
+      "AuthorSource": "WORK INSCRIPTION AUTHOR SOURCE",
+      "AuthorVocab": "ULAN",
+      "Extent": "WORK INSCRIPTION EXTENT",
+      "Lang": "eng",
+      "Position": "WORK INSCRIPTION POSITION",
+      "Text": "WORK INSCRIPTION TEXT",
+      "TextSource": "WORK INSCRIPTION TEXTSOURCE",
+      "TextType": "caption"
+    }]
+  },
+  "WorkLocation": {
+    "id": "work.location",
+    "table": "UserDefined::vrae",
+    "val": "WORK LOCATION"
+  },
+  "WorkLocationIndexed": {
+    "id": "work.locationIndexed",
+    "table": "UserDefined::vrae",
+    "val": [{
+      "Geo": "LOCATION GEO NAME",
+      "GeoExtent": "LOCATION GEO EXTENT",
+      "GeoHref": "LOCATION GEO NAME HREF",
+      "GeoRefid": "LOCATION GEO NAME REFID",
+      "GeoVocab": "TGN",
+      "Name": "LOCATION NAME",
+      "NameHref": "LOCATION NAME HREF",
+      "NameRefid": "LOCATION NAME REFID",
+      "NameType": "LOCATION NAME TYPE",
+      "NameVocab": "ULAN",
+      "Refid": "REFID",
+      "RefidType": "LOCATION REFID TYPE",
+      "Type": "site"
+    }]
+  },
+  "WorkLocationNotes": {
+    "id": "work.locationNotes",
+    "table": "UserDefined::vrae",
+    "val": "WORK LOCATION NOTES"
+  },
+  "WorkMaterial": {
+    "id": "work.material",
+    "table": "UserDefined::vrae",
+    "val": "WORK MATERIAL"
+  },
+  "WorkMaterialIndexed": {
+    "id": "work.materialIndexed",
+    "table": "UserDefined::vrae",
+    "val": [{
+      "Extent": "MATERIAL EXTENT",
+      "Href": "MATERIAL HREF",
+      "Refid": "MATERIAL REFID",
+      "Source": "MATERIAL SOURCE",
+      "Value": "MATERIAL",
+      "Vocab": "AAT"
+    }]
+  },
+  "WorkMeasurements": {
+    "id": "work.measurements",
+    "table": "UserDefined::vrae",
+    "val": "WORK MEASUREMENTS"
+  },
+  "WorkMeasurementsIndexed": {
+    "id": "work.measurementsIndexed",
+    "table": "UserDefined::vrae",
+    "val": [{
+      "Extent": "WORK MEASUREMENTS EXTENT",
+      "Measurements": [{
+        "Type": "width",
+        "Value": 105
+      },{
+        "Type": "length",
+        "Value": 67
+      }],
+      "Rules": "MEASUREMENTS RULES",
+      "Source": "MEASUREMENTS SOURCE",
+      "Unit": "cm"
+    }]
+  },
+  "WorkMetadataDate": {
+    "id": "work.metadataDate",
+    "table": "UserDefined::vrae",
+    "val": "2021-04-19"
+  },
+  "WorkMetadataHref": {
+    "id": "work.metadataHref",
+    "table": "UserDefined::vrae",
+    "val": "WORKMETADATAHREF"
+  },
+  "WorkMetadataId": {
+    "id": "work.metadataId",
+    "table": "UserDefined::vrae",
+    "val": "WORKMETADATAID"
+  },
+  "WorkMetadataSource": {
+    "id": "work.metadataSource",
+    "table": "UserDefined::vrae",
+    "val": "WORKMETADATASOURCE"
+  },
+  "WorkRefid": {
+    "id": "work.refid",
+    "table": "UserDefined::vrae",
+    "val": "WORK REFID"
+  },
+  "WorkRelation": {
+    "id": "work.relation",
+    "table": "UserDefined::vrae",
+    "val": "WORK RELATION"
+  },
+  "WorkRelationIndexed": {
+    "id": "work.relationIndexed",
+    "table": "UserDefined::vrae",
+    "val": [{
+      "Href": "RELATION HREF",
+      "Refid": "RELATION REFID",
+      "Relids": "RELATION",
+      "Source": "RELATION SOURCE",
+      "Type": "partOf",
+      "Value": "RELATION"
+    }]
+  },
+  "WorkRights": {
+    "id": "work.rights",
+    "table": "UserDefined::vrae",
+    "val": "WORK RIGHTS"
+  },
+  "WorkRightsIndexed": {
+    "id": "work.rightsIndexed",
+    "table": "UserDefined::vrae",
+    "val": [{
+      "Extent": "RIGHTS EXTENT",
+      "Holder": "RIGHTS HOLDER",
+      "HolderHref": "RIGHTS HOLDER HREF",
+      "HolderRefid": "RIGHTS HOLDER REFID",
+      "HolderVocab": "RIGHTS HOLDER VOCAB",
+      "Href": "RIGHTS HREF",
+      "Lang": "RIGHTS LANG",
+      "Notes": "RIGHTS NOTES",
+      "Refid": "RIGHTS REFID",
+      "Text": "RIGHTS",
+      "TextHref": "RIGHTS HREF",
+      "TextVocab": "RIGHTS VOCAB",
+      "Type": "copyrighted"
+    }]
+  },
+  "Worksource": {
+    "id": "work.source",
+    "table": "UserDefined::vrae",
+    "val": "WORK SOURCE"
+  },
+  "WorkSourceIndexed": {
+    "id": "work.sourceIndexed",
+    "table": "UserDefined::vrae",
+    "val": [{
+      "Extent": "SOURCE EXTENT",
+      "Href": "SOURCE HREF",
+      "NameHref": "SOURCE NAME HREF",
+      "NameRefid": "SOURCE NAME REFID",
+      "NameVocab": "SOURCE NAME VOCAB",
+      "Refid": "SOURCE REFID",
+      "RefidType": "ISBN",
+      "Type": "book",
+      "Value": "SOURCE NAME"
+    }]
+  },
+  "WorkStateEdition": {
+    "id": "work.stateEdition",
+    "table": "UserDefined::vrae",
+    "val": "WORK STATE EDITION"
+  },
+  "WorkStateEditionIndexed": {
+    "id": "work.stateEditionIndexed",
+    "table": "UserDefined::vrae",
+    "val": [{
+      "Count": "SOURCE COUNT",
+      "Description": "SOURCE DESCRIPTION",
+      "Href": "SOURCE HREF",
+      "Name": "SOURCE NAME",
+      "Number": "SOURCE NUMBER",
+      "Refid": "SOURCE REFID",
+      "Source": "SOURCE SOURCE ",
+      "Type": "edition"
+    }]
+  },
+  "WorkStylePeriod": {
+    "id": "work.stylePeriod",
+    "table": "UserDefined::vrae",
+    "val": "WORK STYLE PERIOD"
+  },
+  "WorkStylePeriodIndexed": {
+    "id": "work.stylePeriodIndexed",
+    "table": "UserDefined::vrae",
+    "val": [{
+      "Extent": "STYLE/PERIOD EXTENT",
+      "Href": "STYLE/PERIOD HREF",
+      "Refid": "STYLE/PERIOD REFID",
+      "Source": "STYLE/PERIOD SOURCE",
+      "Value": "STYLE/PERIOD",
+      "Vocab": "AAT"
+    }]
+  },
+  "WorkSubject": {
+    "id": "work.subject",
+    "table": "UserDefined::vrae",
+    "val": "WORK SUBJECT"
+  },
+  "WorkSubjectIndexed": {
+    "id": "work.subjectIndexed",
+    "table": "UserDefined::vrae",
+    "val": [{
+      "Extent": "SUBJECT EXTENT",
+      "Href": "SUBJECT HREF",
+      "Lang": "Eng",
+      "Refid": "SUBJECT REFID",
+      "Rules": "SUBJECT RULES",
+      "Source": "SUBJECT SOURCE",
+      "Type": "iconographicTopic",
+      "Value": "SUBJECT VALUE",
+      "Vocab": "AAT"
+    }]
+  },
+  "WorkTechnique": {
+    "id": "work.technique",
+    "table": "UserDefined::vrae",
+    "val": "WORK TECHNIQUE"
+  },
+  "WorkTechniqueIndexed": {
+    "id": "work.techniqueIndexed",
+    "table": "UserDefined::vrae",
+    "val": [{
+      "Extent": "TECHNIQUE EXTENT",
+      "Href": "TECHNIQUE HREF",
+      "Lang": "TECHNIQUE LANG",
+      "Refid": "TECHNIQUE REFID",
+      "Source": "TECHNIQUE SOURCE",
+      "Value": "TECHNIQUE VALUE",
+      "Vocab": "AAT"
+    }]
+  },
+  "Worktextref": {
+    "id": "work.textref",
+    "table": "UserDefined::vrae",
+    "val": "WORK TEXTREF"
+  },
+  "WorkTextrefIndexed": {
+    "id": "work.textrefIndexed",
+    "table": "UserDefined::vrae",
+    "val": [{
+      "Extent": "TEXT REFERENCE EXTENT",
+      "Href": "TEXT REFERENCE HREF",
+      "Name": "TEXT REFERENCE NAME",
+      "NameType": "book",
+      "Refid": "TEXT REFERENCE REFID",
+      "RefidType": "ISBN",
+      "Source": "TEXT REFERENCE SOURCE"
+    }]
+  },
+  "Worktitle": {
+    "id": "work.title",
+    "table": "UserDefined::vrae",
+    "val": "WORK TITLE"
+  },
+  "WorkTitleIndexed": {
+    "id": "work.titleIndexed",
+    "table": "UserDefined::vrae",
+    "val": [{
+      "Href": "TITLE HREF",
+      "Lang": "eng",
+      "Pref": true,
+      "Refid": "TITLE REFID",
+      "Relids": "TITLE RELIDS",
+      "Source": "TITLE SOURCE",
+      "Type": "popular",
+      "Value": "TITLE VALUE",
+      "Vocab": "CONA"
+    }]
+  },
+  "WorkWorktype": {
+    "id": "work.worktype",
+    "table": "UserDefined::vrae",
+    "val": "WORK WORK TYPE"
+  },
+  "WorkWorktypeIndexed": {
+    "id": "work.worktypeIndexed",
+    "table": "UserDefined::vrae",
+    "val": [{
+      "Extent": "WORK TYPE EXTENT",
+      "Href": "WORK TYPE HREF",
+      "Refid": "WORK TYPE REFID",
+      "Source": "WORK TYPE SOURCE",
+      "Value": "WORK TYPE VALUE",
+      "Vocab": "AAT"
+    }]
+  }
+}]

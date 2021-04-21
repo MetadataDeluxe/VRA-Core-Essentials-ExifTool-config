@@ -1,0 +1,575 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.0-c006 79.164648, 2021/01/12-15:52:29        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/"
+            xmlns:cc="http://creativecommons.org/ns#"
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+            xmlns:plus="http://ns.useplus.org/ldf/xmp/1.0/"
+            xmlns:pur="http://prismstandard.org/namespaces/prismusagerights/2.1/"
+            xmlns:vrae="http://www.vraweb.org/vracore/4.0/essential/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/"
+            xmlns:exif="http://ns.adobe.com/exif/1.0/"
+            xmlns:tiff="http://ns.adobe.com/tiff/1.0/">
+         <Iptc4xmpCore:CreatorContactInfo rdf:parseType="Resource">
+            <Iptc4xmpCore:CiAdrCity>AGENT CITY</Iptc4xmpCore:CiAdrCity>
+            <Iptc4xmpCore:CiAdrCtry>AGENT COUNTRY</Iptc4xmpCore:CiAdrCtry>
+            <Iptc4xmpCore:CiAdrExtadr>AGENT ADDRESS</Iptc4xmpCore:CiAdrExtadr>
+            <Iptc4xmpCore:CiAdrPcode>AGENT POSTAL CODE</Iptc4xmpCore:CiAdrPcode>
+            <Iptc4xmpCore:CiAdrRegion>AGENT REGION</Iptc4xmpCore:CiAdrRegion>
+            <Iptc4xmpCore:CiEmailWork>AGENT WORK EMAIL</Iptc4xmpCore:CiEmailWork>
+            <Iptc4xmpCore:CiTelWork>AGENT WORK TELEPHONE</Iptc4xmpCore:CiTelWork>
+            <Iptc4xmpCore:CiUrlWork>AGENT WORK URL</Iptc4xmpCore:CiUrlWork>
+         </Iptc4xmpCore:CreatorContactInfo>
+         <cc:license rdf:resource="attribution"/>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>IMAGE AGENT</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <dc:description>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">IPTC DESCRIPTION</rdf:li>
+            </rdf:Alt>
+         </dc:description>
+         <dc:format>image/jpeg</dc:format>
+         <dc:publisher>
+            <rdf:Bag>
+               <rdf:li>IMAGE Collection</rdf:li>
+            </rdf:Bag>
+         </dc:publisher>
+         <dc:rights>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">IMAGE RIGHTS</rdf:li>
+            </rdf:Alt>
+         </dc:rights>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">IPTC TITLE</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+         <dc:subject>
+            <rdf:Bag>
+               <rdf:li>IPTC KEYWORDS</rdf:li>
+            </rdf:Bag>
+         </dc:subject>
+         <photoshop:AuthorsPosition>IMAGE AGENT ROLE</photoshop:AuthorsPosition>
+         <photoshop:CaptionWriter>IMAGE CATALOGER</photoshop:CaptionWriter>
+         <photoshop:Instructions>IPTC INSTRUCTIONS</photoshop:Instructions>
+         <photoshop:TransmissionReference>IMAGE JOB ID</photoshop:TransmissionReference>
+         <photoshop:LegacyIPTCDigest>436B37D4999405A05863EA2A31BF6B01</photoshop:LegacyIPTCDigest>
+         <photoshop:DateCreated>2021-04-10</photoshop:DateCreated>
+         <photoshop:Headline>IPTC HEADLINE</photoshop:Headline>
+         <photoshop:Credit>IMAGE RIGHTS TEXT</photoshop:Credit>
+         <photoshop:Source>IPTC SOURCE</photoshop:Source>
+         <photoshop:ColorMode>3</photoshop:ColorMode>
+         <photoshop:ICCProfile/>
+         <plus:CopyrightOwner>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <plus:CopyrightOwnerName>IMAGE RIGHTS HOLDER NAME</plus:CopyrightOwnerName>
+               </rdf:li>
+            </rdf:Seq>
+         </plus:CopyrightOwner>
+         <pur:creditLine>
+            <rdf:Bag>
+               <rdf:li>IPTC CREDIT LINE</rdf:li>
+            </rdf:Bag>
+         </pur:creditLine>
+         <vrae:custom1 rdf:parseType="Resource">
+            <vrae:_label>CUSTOM 1 LABEL</vrae:_label>
+            <vrae:data>CUSTOM 1 DATA</vrae:data>
+         </vrae:custom1>
+         <vrae:custom2 rdf:parseType="Resource">
+            <vrae:_label>CUSTOM 2 LABEL</vrae:_label>
+            <vrae:data>CUSTOM 2 DATA</vrae:data>
+         </vrae:custom2>
+         <vrae:custom3 rdf:parseType="Resource">
+            <vrae:_label>CUSTOM 3 LABEL</vrae:_label>
+            <vrae:data>CUSTOM 3 DATA</vrae:data>
+         </vrae:custom3>
+         <vrae:custom4 rdf:parseType="Resource">
+            <vrae:_label>CUSTOM 4 LABEL</vrae:_label>
+            <vrae:data>CUSTOM 4 DATA</vrae:data>
+         </vrae:custom4>
+         <vrae:custom5 rdf:parseType="Resource">
+            <vrae:_label>CUSTOM 5 LABEL</vrae:_label>
+            <vrae:data>CUSTOM 5 DATA</vrae:data>
+         </vrae:custom5>
+         <vrae:custom6 rdf:parseType="Resource">
+            <vrae:_label>CUSTOM 6 LABEL</vrae:_label>
+            <vrae:data>CUSTOM 6 DATA</vrae:data>
+         </vrae:custom6>
+         <vrae:image.agentIndexed>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <vrae:href>IMAGE AGENT HREF</vrae:href>
+                  <vrae:refid>IMAGE AGENT REFID</vrae:refid>
+                  <vrae:value>IMAGE AGENT</vrae:value>
+                  <vrae:vocab>ULAN</vrae:vocab>
+               </rdf:li>
+            </rdf:Seq>
+         </vrae:image.agentIndexed>
+         <vrae:image.description>IMAGE DESCRIPTION</vrae:image.description>
+         <vrae:image.descriptionIndexed>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <vrae:extent>IMAGE DESCRIPTION EXTENT</vrae:extent>
+                  <vrae:lang>eng</vrae:lang>
+                  <vrae:refid>IMAGE DESCRIPTION REFID</vrae:refid>
+                  <vrae:source>IMAGE DESCRIPTION SOURCE</vrae:source>
+                  <vrae:value>IMAGE DESCRIPTION VALUE</vrae:value>
+               </rdf:li>
+            </rdf:Seq>
+         </vrae:image.descriptionIndexed>
+         <vrae:image.href>IMAGE HREF</vrae:image.href>
+         <vrae:image.inscription>IMAGE INSCRIPTION</vrae:image.inscription>
+         <vrae:image.inscriptionIndexed>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <vrae:author>IMAGE INSCRIPTION AUTHOR</vrae:author>
+                  <vrae:authorHref>IMAGE INSCRIPTION AUTHOR HREF</vrae:authorHref>
+                  <vrae:authorRefid>IMAGE INSCRIPTION AUTHOR REFID</vrae:authorRefid>
+                  <vrae:authorSource>IMAGE INSCRIPTION AUTHOR SOURCE</vrae:authorSource>
+                  <vrae:authorVocab>ULAN</vrae:authorVocab>
+                  <vrae:extent>IMAGE INSCRIPTION EXTENT</vrae:extent>
+                  <vrae:lang>eng</vrae:lang>
+                  <vrae:position>IMAGE INSCRIPTION POSITION</vrae:position>
+                  <vrae:text>IMAGE INSCRIPTION TEXT</vrae:text>
+                  <vrae:textSource>IMAGE INSCRIPTION TEXTSOURCE</vrae:textSource>
+                  <vrae:textType>caption</vrae:textType>
+               </rdf:li>
+            </rdf:Seq>
+         </vrae:image.inscriptionIndexed>
+         <vrae:image.metadataDate>IMAGE METADATA DATE</vrae:image.metadataDate>
+         <vrae:image.metadataHref>IMAGE METADATA HREF</vrae:image.metadataHref>
+         <vrae:image.metadataId>IMAGE METADATA ID</vrae:image.metadataId>
+         <vrae:image.metadataSource>IMAGE METADATA SOURCE</vrae:image.metadataSource>
+         <vrae:image.refid>IMAGE REFID</vrae:image.refid>
+         <vrae:image.relation>IMAGE RELATION</vrae:image.relation>
+         <vrae:image.relationIndexed>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <vrae:href>RELATION HREF</vrae:href>
+                  <vrae:refid>RELATION REFID</vrae:refid>
+                  <vrae:relids>RELATION</vrae:relids>
+                  <vrae:source>RELATION SOURCE</vrae:source>
+                  <vrae:type>imageOf</vrae:type>
+                  <vrae:value>RELATION</vrae:value>
+               </rdf:li>
+            </rdf:Seq>
+         </vrae:image.relationIndexed>
+         <vrae:image.source>IMAGE SOURCE</vrae:image.source>
+         <vrae:image.sourceIndexed>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <vrae:extent>SOURCE EXTENT</vrae:extent>
+                  <vrae:href>SOURCE HREF</vrae:href>
+                  <vrae:nameHref>SOURCE NAME HREF</vrae:nameHref>
+                  <vrae:nameRefid>SOURCE NAME REFID</vrae:nameRefid>
+                  <vrae:nameVocab>SOURCE NAME VOCAB</vrae:nameVocab>
+                  <vrae:refid>SOURCE REFID</vrae:refid>
+                  <vrae:refidType>ISBN</vrae:refidType>
+                  <vrae:type>book</vrae:type>
+                  <vrae:value>SOURCE NAME</vrae:value>
+               </rdf:li>
+            </rdf:Seq>
+         </vrae:image.sourceIndexed>
+         <vrae:image.subject>IMAGE SUBJECT</vrae:image.subject>
+         <vrae:image.subjectIndexed>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <vrae:extent>SUBJECT EXTENT</vrae:extent>
+                  <vrae:href>SUBJECT HREF</vrae:href>
+                  <vrae:lang>Eng</vrae:lang>
+                  <vrae:refid>SUBJECT REFID</vrae:refid>
+                  <vrae:rules>SUBJECT RULES</vrae:rules>
+                  <vrae:source>SUBJECT SOURCE</vrae:source>
+                  <vrae:type>iconographicTopic</vrae:type>
+                  <vrae:value>SUBJECT VALUE</vrae:value>
+                  <vrae:vocab>AAT</vrae:vocab>
+               </rdf:li>
+            </rdf:Seq>
+         </vrae:image.subjectIndexed>
+         <vrae:image.title>IMAGE TITLE</vrae:image.title>
+         <vrae:image.titleIndexed>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <vrae:href>TITLE HREF</vrae:href>
+                  <vrae:lang>eng</vrae:lang>
+                  <vrae:pref>true</vrae:pref>
+                  <vrae:refid>TITLE REFID</vrae:refid>
+                  <vrae:relids>TITLE RELIDS</vrae:relids>
+                  <vrae:source>TITLE SOURCE</vrae:source>
+                  <vrae:type>generalView</vrae:type>
+                  <vrae:value>TITLE VALUE</vrae:value>
+                  <vrae:vocab>CONA</vrae:vocab>
+               </rdf:li>
+            </rdf:Seq>
+         </vrae:image.titleIndexed>
+         <vrae:work.agent>WORK AGENT</vrae:work.agent>
+         <vrae:work.agentIndexed>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <vrae:attribution>attributed to</vrae:attribution>
+                  <vrae:culture>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <vrae:href>AGENT CULTURE HREF</vrae:href>
+                           <vrae:refid>AGENT CULTURE REFID</vrae:refid>
+                           <vrae:source>AGENT CULTURE SOURCE</vrae:source>
+                           <vrae:value>AGENT CULTURE VALUE</vrae:value>
+                           <vrae:vocab>AAT</vrae:vocab>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </vrae:culture>
+                  <vrae:dateEarliest>1900</vrae:dateEarliest>
+                  <vrae:dateLatest>1999</vrae:dateLatest>
+                  <vrae:dateType>life</vrae:dateType>
+                  <vrae:extent>AGENT EXTENT</vrae:extent>
+                  <vrae:name>AGENT NAME</vrae:name>
+                  <vrae:nameHref>AGENT HREF</vrae:nameHref>
+                  <vrae:nameRefid>AGENT REFID</vrae:nameRefid>
+                  <vrae:nameSource>AGENT NAME SOURCE</vrae:nameSource>
+                  <vrae:nameType>AGENT NAME TYPE</vrae:nameType>
+                  <vrae:nameVocab>ULAN</vrae:nameVocab>
+                  <vrae:role>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <vrae:href>AGENT ROLE HREF</vrae:href>
+                           <vrae:refid>AGENT ROLE REFID</vrae:refid>
+                           <vrae:source>AGENT ROLE SOURCE</vrae:source>
+                           <vrae:value>artist</vrae:value>
+                           <vrae:vocab>AAT</vrae:vocab>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <vrae:value>AGENT ROLE 2</vrae:value>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </vrae:role>
+                  <vrae:source>AGENT SOURCE</vrae:source>
+               </rdf:li>
+            </rdf:Seq>
+         </vrae:work.agentIndexed>
+         <vrae:work.culturalContext>WORK CULTURAL CONTEXT</vrae:work.culturalContext>
+         <vrae:work.culturalContextIndexed>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <vrae:extent>CULTURAL CONTEXT EXTENT</vrae:extent>
+                  <vrae:href>CULTURAL CONTEXT HREF</vrae:href>
+                  <vrae:refid>CULTURAL CONTEXT REFID</vrae:refid>
+                  <vrae:source>CULTURAL CONTEXT SOURCE</vrae:source>
+                  <vrae:value>CULTURAL CONTEXT</vrae:value>
+                  <vrae:vocab>AAT</vrae:vocab>
+               </rdf:li>
+            </rdf:Seq>
+         </vrae:work.culturalContextIndexed>
+         <vrae:work.date>WORK DATE</vrae:work.date>
+         <vrae:work.dateIndexed>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <vrae:earliestDate>1900</vrae:earliestDate>
+                  <vrae:extent>WORK DATE EXTENT</vrae:extent>
+                  <vrae:latestDate>1999</vrae:latestDate>
+                  <vrae:source>WORK DATE SOURCE</vrae:source>
+                  <vrae:type>creation</vrae:type>
+               </rdf:li>
+            </rdf:Seq>
+         </vrae:work.dateIndexed>
+         <vrae:work.description>WORK DESCRIPTION</vrae:work.description>
+         <vrae:work.descriptionIndexed>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <vrae:extent>WORK DESCRIPTION EXTENT</vrae:extent>
+                  <vrae:lang>eng</vrae:lang>
+                  <vrae:refid>WORK DESCRIPTION REFID</vrae:refid>
+                  <vrae:source>WORK DESCRIPTION SOURCE</vrae:source>
+                  <vrae:value>WORK DESCRIPTION VALUE</vrae:value>
+               </rdf:li>
+            </rdf:Seq>
+         </vrae:work.descriptionIndexed>
+         <vrae:work.href>WORK HREF</vrae:work.href>
+         <vrae:work.inscription>WORK INSCRIPTION</vrae:work.inscription>
+         <vrae:work.inscriptionIndexed>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <vrae:author>WORK INSCRIPTION AUTHOR</vrae:author>
+                  <vrae:authorHref>WORK INSCRIPTION AUTHOR HREF</vrae:authorHref>
+                  <vrae:authorRefid>WORK INSCRIPTION AUTHOR REFID</vrae:authorRefid>
+                  <vrae:authorSource>WORK INSCRIPTION AUTHOR SOURCE</vrae:authorSource>
+                  <vrae:authorVocab>ULAN</vrae:authorVocab>
+                  <vrae:extent>WORK INSCRIPTION EXTENT</vrae:extent>
+                  <vrae:lang>eng</vrae:lang>
+                  <vrae:position>WORK INSCRIPTION POSITION</vrae:position>
+                  <vrae:text>WORK INSCRIPTION TEXT</vrae:text>
+                  <vrae:textSource>WORK INSCRIPTION TEXTSOURCE</vrae:textSource>
+                  <vrae:textType>caption</vrae:textType>
+               </rdf:li>
+            </rdf:Seq>
+         </vrae:work.inscriptionIndexed>
+         <vrae:work.location>WORK LOCATION</vrae:work.location>
+         <vrae:work.locationIndexed>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <vrae:geo>LOCATION GEO NAME</vrae:geo>
+                  <vrae:geoExtent>LOCATION GEO EXTENT</vrae:geoExtent>
+                  <vrae:geoHref>LOCATION GEO NAME HREF</vrae:geoHref>
+                  <vrae:geoRefid>LOCATION GEO NAME REFID</vrae:geoRefid>
+                  <vrae:geoVocab>TGN</vrae:geoVocab>
+                  <vrae:name>LOCATION NAME</vrae:name>
+                  <vrae:nameHref>LOCATION NAME HREF</vrae:nameHref>
+                  <vrae:nameRefid>LOCATION NAME REFID</vrae:nameRefid>
+                  <vrae:nameType>LOCATION NAME TYPE</vrae:nameType>
+                  <vrae:nameVocab>ULAN</vrae:nameVocab>
+                  <vrae:refid>REFID</vrae:refid>
+                  <vrae:refidType>LOCATION REFID TYPE</vrae:refidType>
+                  <vrae:type>site</vrae:type>
+               </rdf:li>
+            </rdf:Seq>
+         </vrae:work.locationIndexed>
+         <vrae:work.locationNotes>WORK LOCATION NOTES</vrae:work.locationNotes>
+         <vrae:work.material>WORK MATERIAL</vrae:work.material>
+         <vrae:work.materialIndexed>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <vrae:extent>MATERIAL EXTENT</vrae:extent>
+                  <vrae:href>MATERIAL HREF</vrae:href>
+                  <vrae:refid>MATERIAL REFID</vrae:refid>
+                  <vrae:source>MATERIAL SOURCE</vrae:source>
+                  <vrae:value>MATERIAL</vrae:value>
+                  <vrae:vocab>AAT</vrae:vocab>
+               </rdf:li>
+            </rdf:Seq>
+         </vrae:work.materialIndexed>
+         <vrae:work.measurements>WORK MEASUREMENTS</vrae:work.measurements>
+         <vrae:work.measurementsIndexed>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <vrae:extent>WORK MEASUREMENTS EXTENT</vrae:extent>
+                  <vrae:measurements>
+                     <rdf:Seq>
+                        <rdf:li rdf:parseType="Resource">
+                           <vrae:type>width</vrae:type>
+                           <vrae:value>105</vrae:value>
+                        </rdf:li>
+                        <rdf:li rdf:parseType="Resource">
+                           <vrae:type>length</vrae:type>
+                           <vrae:value>67</vrae:value>
+                        </rdf:li>
+                     </rdf:Seq>
+                  </vrae:measurements>
+                  <vrae:rules>MEASUREMENTS RULES</vrae:rules>
+                  <vrae:source>MEASUREMENTS SOURCE</vrae:source>
+                  <vrae:unit>cm</vrae:unit>
+               </rdf:li>
+            </rdf:Seq>
+         </vrae:work.measurementsIndexed>
+         <vrae:work.metadataDate>2021-04-19</vrae:work.metadataDate>
+         <vrae:work.metadataHref>WORKMETADATAHREF</vrae:work.metadataHref>
+         <vrae:work.metadataId>WORKMETADATAID</vrae:work.metadataId>
+         <vrae:work.metadataSource>WORKMETADATASOURCE</vrae:work.metadataSource>
+         <vrae:work.refid>WORK REFID</vrae:work.refid>
+         <vrae:work.relation>WORK RELATION</vrae:work.relation>
+         <vrae:work.relationIndexed>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <vrae:href>RELATION HREF</vrae:href>
+                  <vrae:refid>RELATION REFID</vrae:refid>
+                  <vrae:relids>RELATION</vrae:relids>
+                  <vrae:source>RELATION SOURCE</vrae:source>
+                  <vrae:type>partOf</vrae:type>
+                  <vrae:value>RELATION</vrae:value>
+               </rdf:li>
+            </rdf:Seq>
+         </vrae:work.relationIndexed>
+         <vrae:work.rights>WORK RIGHTS</vrae:work.rights>
+         <vrae:work.rightsIndexed>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <vrae:extent>RIGHTS EXTENT</vrae:extent>
+                  <vrae:holder>RIGHTS HOLDER</vrae:holder>
+                  <vrae:holderHref>RIGHTS HOLDER HREF</vrae:holderHref>
+                  <vrae:holderRefid>RIGHTS HOLDER REFID</vrae:holderRefid>
+                  <vrae:holderVocab>RIGHTS HOLDER VOCAB</vrae:holderVocab>
+                  <vrae:href>RIGHTS HREF</vrae:href>
+                  <vrae:lang>RIGHTS LANG</vrae:lang>
+                  <vrae:notes>RIGHTS NOTES</vrae:notes>
+                  <vrae:refid>RIGHTS REFID</vrae:refid>
+                  <vrae:text>RIGHTS</vrae:text>
+                  <vrae:textHref>RIGHTS HREF</vrae:textHref>
+                  <vrae:textVocab>RIGHTS VOCAB</vrae:textVocab>
+                  <vrae:type>copyrighted</vrae:type>
+               </rdf:li>
+            </rdf:Seq>
+         </vrae:work.rightsIndexed>
+         <vrae:work.source>WORK SOURCE</vrae:work.source>
+         <vrae:work.sourceIndexed>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <vrae:extent>SOURCE EXTENT</vrae:extent>
+                  <vrae:href>SOURCE HREF</vrae:href>
+                  <vrae:nameHref>SOURCE NAME HREF</vrae:nameHref>
+                  <vrae:nameRefid>SOURCE NAME REFID</vrae:nameRefid>
+                  <vrae:nameVocab>SOURCE NAME VOCAB</vrae:nameVocab>
+                  <vrae:refid>SOURCE REFID</vrae:refid>
+                  <vrae:refidType>ISBN</vrae:refidType>
+                  <vrae:type>book</vrae:type>
+                  <vrae:value>SOURCE NAME</vrae:value>
+               </rdf:li>
+            </rdf:Seq>
+         </vrae:work.sourceIndexed>
+         <vrae:work.stateEdition>WORK STATE EDITION</vrae:work.stateEdition>
+         <vrae:work.stateEditionIndexed>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <vrae:count>SOURCE COUNT</vrae:count>
+                  <vrae:description>SOURCE DESCRIPTION</vrae:description>
+                  <vrae:href>SOURCE HREF</vrae:href>
+                  <vrae:name>SOURCE NAME</vrae:name>
+                  <vrae:number>SOURCE NUMBER</vrae:number>
+                  <vrae:refid>SOURCE REFID</vrae:refid>
+                  <vrae:source>SOURCE SOURCE </vrae:source>
+                  <vrae:type>edition</vrae:type>
+               </rdf:li>
+            </rdf:Seq>
+         </vrae:work.stateEditionIndexed>
+         <vrae:work.stylePeriod>WORK STYLE PERIOD</vrae:work.stylePeriod>
+         <vrae:work.stylePeriodIndexed>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <vrae:extent>STYLE/PERIOD EXTENT</vrae:extent>
+                  <vrae:href>STYLE/PERIOD HREF</vrae:href>
+                  <vrae:refid>STYLE/PERIOD REFID</vrae:refid>
+                  <vrae:source>STYLE/PERIOD SOURCE</vrae:source>
+                  <vrae:value>STYLE/PERIOD</vrae:value>
+                  <vrae:vocab>AAT</vrae:vocab>
+               </rdf:li>
+            </rdf:Seq>
+         </vrae:work.stylePeriodIndexed>
+         <vrae:work.subject>WORK SUBJECT</vrae:work.subject>
+         <vrae:work.subjectIndexed>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <vrae:extent>SUBJECT EXTENT</vrae:extent>
+                  <vrae:href>SUBJECT HREF</vrae:href>
+                  <vrae:lang>Eng</vrae:lang>
+                  <vrae:refid>SUBJECT REFID</vrae:refid>
+                  <vrae:rules>SUBJECT RULES</vrae:rules>
+                  <vrae:source>SUBJECT SOURCE</vrae:source>
+                  <vrae:type>iconographicTopic</vrae:type>
+                  <vrae:value>SUBJECT VALUE</vrae:value>
+                  <vrae:vocab>AAT</vrae:vocab>
+               </rdf:li>
+            </rdf:Seq>
+         </vrae:work.subjectIndexed>
+         <vrae:work.technique>WORK TECHNIQUE</vrae:work.technique>
+         <vrae:work.techniqueIndexed>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <vrae:extent>TECHNIQUE EXTENT</vrae:extent>
+                  <vrae:href>TECHNIQUE HREF</vrae:href>
+                  <vrae:lang>TECHNIQUE LANG</vrae:lang>
+                  <vrae:refid>TECHNIQUE REFID</vrae:refid>
+                  <vrae:source>TECHNIQUE SOURCE</vrae:source>
+                  <vrae:value>TECHNIQUE VALUE</vrae:value>
+                  <vrae:vocab>AAT</vrae:vocab>
+               </rdf:li>
+            </rdf:Seq>
+         </vrae:work.techniqueIndexed>
+         <vrae:work.textref>WORK TEXTREF</vrae:work.textref>
+         <vrae:work.textrefIndexed>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <vrae:extent>TEXT REFERENCE EXTENT</vrae:extent>
+                  <vrae:href>TEXT REFERENCE HREF</vrae:href>
+                  <vrae:name>TEXT REFERENCE NAME</vrae:name>
+                  <vrae:nameType>book</vrae:nameType>
+                  <vrae:refid>TEXT REFERENCE REFID</vrae:refid>
+                  <vrae:refidType>ISBN</vrae:refidType>
+                  <vrae:source>TEXT REFERENCE SOURCE</vrae:source>
+               </rdf:li>
+            </rdf:Seq>
+         </vrae:work.textrefIndexed>
+         <vrae:work.title>WORK TITLE</vrae:work.title>
+         <vrae:work.titleIndexed>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <vrae:href>TITLE HREF</vrae:href>
+                  <vrae:lang>eng</vrae:lang>
+                  <vrae:pref>true</vrae:pref>
+                  <vrae:refid>TITLE REFID</vrae:refid>
+                  <vrae:relids>TITLE RELIDS</vrae:relids>
+                  <vrae:source>TITLE SOURCE</vrae:source>
+                  <vrae:type>popular</vrae:type>
+                  <vrae:value>TITLE VALUE</vrae:value>
+                  <vrae:vocab>CONA</vrae:vocab>
+               </rdf:li>
+            </rdf:Seq>
+         </vrae:work.titleIndexed>
+         <vrae:work.worktype>WORK WORK TYPE</vrae:work.worktype>
+         <vrae:work.worktypeIndexed>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <vrae:extent>WORK TYPE EXTENT</vrae:extent>
+                  <vrae:href>WORK TYPE HREF</vrae:href>
+                  <vrae:refid>WORK TYPE REFID</vrae:refid>
+                  <vrae:source>WORK TYPE SOURCE</vrae:source>
+                  <vrae:value>WORK TYPE VALUE</vrae:value>
+                  <vrae:vocab>AAT</vrae:vocab>
+               </rdf:li>
+            </rdf:Seq>
+         </vrae:work.worktypeIndexed>
+         <xmp:MetadataDate>2021-04-19T14:53:08-07:00</xmp:MetadataDate>
+         <xmpMM:DocumentID>AAA7FECF1632ADF97B87A5ED78156062</xmpMM:DocumentID>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:changed>/metadata</stEvt:changed>
+                  <stEvt:instanceID>xmp.iid:becc66b4-2614-b64c-8ef7-1fa782e8305e</stEvt:instanceID>
+                  <stEvt:softwareAgent>Adobe Photoshop Camera Raw 13.2</stEvt:softwareAgent>
+                  <stEvt:when>2021-04-19T14:52:11-07:00</stEvt:when>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:changed>/metadata</stEvt:changed>
+                  <stEvt:instanceID>xmp.iid:b6e32782-7576-f740-b21d-967c61badcdd</stEvt:instanceID>
+                  <stEvt:softwareAgent>Adobe Photoshop Camera Raw 13.2 (Windows)</stEvt:softwareAgent>
+                  <stEvt:when>2021-04-19T14:53:08-07:00</stEvt:when>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <xmpMM:InstanceID>xmp.iid:b6e32782-7576-f740-b21d-967c61badcdd</xmpMM:InstanceID>
+         <xmpMM:OriginalDocumentID>AAA7FECF1632ADF97B87A5ED78156062</xmpMM:OriginalDocumentID>
+         <xmpRights:Marked>True</xmpRights:Marked>
+         <xmpRights:UsageTerms>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">IPTC USAGE TERMS</rdf:li>
+            </rdf:Alt>
+         </xmpRights:UsageTerms>
+         <xmpRights:WebStatement>IMAGE RIGHTS URL</xmpRights:WebStatement>
+         <exif:ExifVersion>0231</exif:ExifVersion>
+         <exif:PixelXDimension>640</exif:PixelXDimension>
+         <exif:PixelYDimension>400</exif:PixelYDimension>
+         <exif:ColorSpace>65535</exif:ColorSpace>
+         <tiff:Orientation>1</tiff:Orientation>
+         <tiff:ImageWidth>640</tiff:ImageWidth>
+         <tiff:ImageLength>400</tiff:ImageLength>
+         <tiff:PhotometricInterpretation>2</tiff:PhotometricInterpretation>
+         <tiff:SamplesPerPixel>3</tiff:SamplesPerPixel>
+         <tiff:BitsPerSample>
+            <rdf:Seq>
+               <rdf:li>8</rdf:li>
+               <rdf:li>8</rdf:li>
+               <rdf:li>8</rdf:li>
+            </rdf:Seq>
+         </tiff:BitsPerSample>
+         <tiff:XResolution>72/1</tiff:XResolution>
+         <tiff:YResolution>72/1</tiff:YResolution>
+         <tiff:ResolutionUnit>2</tiff:ResolutionUnit>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
