@@ -8,7 +8,10 @@ VRA Essentials is made up select VRA Core properties adapted to the Adobe XMP em
 
 The prefered XMP prefix is "vrae" and the namespace is http://www.vraweb.org/vracore/4.0/essential/
 
-Properties are defined as either Work or Image (Collection is not supported at this time)
+Properties are defined as either Collection, Work, or Image
+ - Collection: describes an aggregate of Work and Image objects
+ - - Only CollectionRefid, CollectionHref, and CollectionSource are currently supported
+ - - Note that Collection SOurce uses dc:publisher (exiftool tag Publisher)
  - Work: describes the creative artwork, object or performance shown in the image/photo.
  - - All Work display and indexed properties and sub-properties are supported, but only selected attributes are supported.
  - Image: describes the photo as a visual surrogate of the Artwork/Object.
